@@ -1,0 +1,54 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zoobiedo.WebAPI", "Zoobiedo.WebAPI\Zoobiedo.WebAPI.csproj", "{20E61CE1-3885-43A2-8E46-1B5BCCC528FC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zoobiedo.ServiceLibrary", "Zoobiedo.ServiceLibrary\Zoobiedo.ServiceLibrary.csproj", "{E79D1A03-54A0-45B1-8577-FB032CE025AC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zoobiedo.DataAccess", "Zoobiedo.DAL\Zoobiedo.DataAccess.csproj", "{690F3059-8833-4E9F-AB6A-584772463F07}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zoobiedo.Common", "Zoobiedo.Common\Zoobiedo.Common.csproj", "{38424EC9-BCA2-49F4-83F4-A6FB8ACE5B71}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zoobiedo.Utilities", "Zoobiedo.Utilities\Zoobiedo.Utilities.csproj", "{E91020BF-99EA-44E2-9859-AE5FB2DEB61F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestWebAPI", "TestWebAPI\TestWebAPI.csproj", "{1E5D97E0-CF1E-4CD7-A370-C1537238920C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{20E61CE1-3885-43A2-8E46-1B5BCCC528FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20E61CE1-3885-43A2-8E46-1B5BCCC528FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20E61CE1-3885-43A2-8E46-1B5BCCC528FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20E61CE1-3885-43A2-8E46-1B5BCCC528FC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E79D1A03-54A0-45B1-8577-FB032CE025AC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E79D1A03-54A0-45B1-8577-FB032CE025AC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E79D1A03-54A0-45B1-8577-FB032CE025AC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E79D1A03-54A0-45B1-8577-FB032CE025AC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{690F3059-8833-4E9F-AB6A-584772463F07}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{690F3059-8833-4E9F-AB6A-584772463F07}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{690F3059-8833-4E9F-AB6A-584772463F07}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{690F3059-8833-4E9F-AB6A-584772463F07}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{690F3059-8833-4E9F-AB6A-584772463F07}.Release|Any CPU.Build.0 = Release|Any CPU
+		{38424EC9-BCA2-49F4-83F4-A6FB8ACE5B71}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38424EC9-BCA2-49F4-83F4-A6FB8ACE5B71}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38424EC9-BCA2-49F4-83F4-A6FB8ACE5B71}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{38424EC9-BCA2-49F4-83F4-A6FB8ACE5B71}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38424EC9-BCA2-49F4-83F4-A6FB8ACE5B71}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E91020BF-99EA-44E2-9859-AE5FB2DEB61F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E91020BF-99EA-44E2-9859-AE5FB2DEB61F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E91020BF-99EA-44E2-9859-AE5FB2DEB61F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E91020BF-99EA-44E2-9859-AE5FB2DEB61F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1E5D97E0-CF1E-4CD7-A370-C1537238920C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E5D97E0-CF1E-4CD7-A370-C1537238920C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E5D97E0-CF1E-4CD7-A370-C1537238920C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E5D97E0-CF1E-4CD7-A370-C1537238920C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

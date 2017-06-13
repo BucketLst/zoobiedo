@@ -1,0 +1,4 @@
+C:\Users\karthikeyan\Documents\Visual Studio 2015\Projects\Zoobiedo.WebAPI\Zoobiedo.DAL\bin\Debug\Zoobiedo.DAL.dll
+C:\Users\karthikeyan\Documents\Visual Studio 2015\Projects\Zoobiedo.WebAPI\Zoobiedo.DAL\bin\Debug\Zoobiedo.DAL.pdb
+C:\Users\karthikeyan\Documents\Visual Studio 2015\Projects\Zoobiedo.WebAPI\Zoobiedo.DAL\obj\Debug\Zoobiedo.DAL.dll
+C:\Users\karthikeyan\Documents\Visual Studio 2015\Projects\Zoobiedo.WebAPI\Zoobiedo.DAL\obj\Debug\Zoobiedo.DAL.pdb

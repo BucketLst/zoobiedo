@@ -1,0 +1,9 @@
+C:\Users\karthikeyan\Documents\Visual Studio 2015\Projects\Zoobiedo.WebAPI\Zoobiedo.ServiceLibrary\bin\Debug\Zoobiedo.ServiceLibrary.dll
+C:\Users\karthikeyan\Documents\Visual Studio 2015\Projects\Zoobiedo.WebAPI\Zoobiedo.ServiceLibrary\bin\Debug\Zoobiedo.ServiceLibrary.pdb
+C:\Users\karthikeyan\Documents\Visual Studio 2015\Projects\Zoobiedo.WebAPI\Zoobiedo.ServiceLibrary\bin\Debug\Zoobiedo.Common.dll
+C:\Users\karthikeyan\Documents\Visual Studio 2015\Projects\Zoobiedo.WebAPI\Zoobiedo.ServiceLibrary\bin\Debug\Zoobiedo.DAL.dll
+C:\Users\karthikeyan\Documents\Visual Studio 2015\Projects\Zoobiedo.WebAPI\Zoobiedo.ServiceLibrary\bin\Debug\Zoobiedo.Common.pdb
+C:\Users\karthikeyan\Documents\Visual Studio 2015\Projects\Zoobiedo.WebAPI\Zoobiedo.ServiceLibrary\bin\Debug\Zoobiedo.DAL.pdb
+C:\Users\karthikeyan\Documents\Visual Studio 2015\Projects\Zoobiedo.WebAPI\Zoobiedo.ServiceLibrary\obj\Debug\Zoobiedo.ServiceLibrary.csprojResolveAssemblyReference.cache
+C:\Users\karthikeyan\Documents\Visual Studio 2015\Projects\Zoobiedo.WebAPI\Zoobiedo.ServiceLibrary\obj\Debug\Zoobiedo.ServiceLibrary.dll
+C:\Users\karthikeyan\Documents\Visual Studio 2015\Projects\Zoobiedo.WebAPI\Zoobiedo.ServiceLibrary\obj\Debug\Zoobiedo.ServiceLibrary.pdb
